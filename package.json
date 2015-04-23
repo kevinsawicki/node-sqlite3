@@ -36,7 +36,7 @@
     "url": "git://github.com/mapbox/node-sqlite3.git"
   },
   "dependencies": {
-    "nan": "https://atom.io/download/atom-shell/nan-1.6.1.tgz"
+    "nan": "git+https://github.com/iojs/nan#155f1d31352d08a3ec9ac206383a670f25428ab7"
   },
   "bundledDependencies": [
     "node-pre-gyp"
